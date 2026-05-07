@@ -1,6 +1,6 @@
 # TrustVerify 🔐
 
-A CLI Tool for File Integrity and Digital Signature Verification
+TrustVerify is a Python-based CLI tool that provides file integrity checking and digital signature verification using SHA-256 hashing and RSA cryptography, ensuring both data authenticity and tamper detection.
 
 ## 📌 Project Description
 
